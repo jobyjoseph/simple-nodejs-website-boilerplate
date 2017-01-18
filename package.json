@@ -1,0 +1,16 @@
+{
+  "name": "simple-nodejs-website-boilerplate",
+  "version": "1.0.0",
+  "description": "Created using express and ejs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joby Joseph",
+  "git": "git@github.com:jobyjoseph/simple-nodejs-website-boilerplate.git",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.5",
+    "express": "^4.14.0"
+  }
+}
